@@ -18,7 +18,7 @@ ionic5+vue+sqlite 实现简单的Android本地诗歌App，待完善！
 ## 界面一
 
 <div align="center">
-	<img src="./imgs/1.jpg" width="360" height="640" alt="界面一" align=center />
+	<img src="./imgs/1.jpg" width="320" height="568" alt="界面一" align=center />
 </div>
 
 ## 界面二
@@ -30,7 +30,7 @@ ionic5+vue+sqlite 实现简单的Android本地诗歌App，待完善！
 ## 界面三
 
 <div align="center">
-	<img src="./imgs/3.jpg" width="360" height="640" alt="界面三" align=center />
+	<img src="./imgs/3.jpg" width="320" height="568" alt="界面三" align=center />
 </div>
 
 ## 界面四
