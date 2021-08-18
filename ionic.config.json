@@ -1,0 +1,9 @@
+{
+  "name": "Ionic",
+  "type": "vue",
+  "id": "abc123",
+  "integrations": {
+    "capacitor": {}
+  }
+  
+}
